@@ -9,5 +9,6 @@ int main()
 	sprintf(str, "%d+%d=",1,1 );
 	puts(str);
 	printf("HELLO");
+	printf(":))");
 	return(0);
 }
